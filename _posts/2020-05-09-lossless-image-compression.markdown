@@ -10,8 +10,8 @@ https://arxiv.org/pdf/2004.02872.pdf
 
 #### 요약정리
 이미지를 딥러닝을 이용해서 "저해상도 + 코드파일"로 압축하는 방식입니다.  
-![1](./assets/img/lossless/1.png)  
-![2](./assets/img/lossless/2.png)  
+![1](../assets/img/lossless/1.png)  
+![2](../assets/img/lossless/2.png)  
 논문의 주장으로는 무손실 압축방식으로
 bpsp 2.7대로 압축할 수 있으며 (2.7/8 ~= 33%, 1MB 이미지를 330KB)
 AMD Ryzen 5 1600, NVIDIA GTX 1060 머신에서 960x960 이미지를 압축을 푸는데 2.3초정도 걸린다고 합니다.
