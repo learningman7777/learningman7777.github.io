@@ -45,3 +45,7 @@ node_modules
 *.gem
 
 _data/resume.json
+.jekyll-cache
+Gemfile.lock
+Gemfile.lock
+/Gemfile.lock
